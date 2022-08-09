@@ -3,23 +3,10 @@
 ## Quickstart
 
 ```shell
-# Checkout
-git clone https://github.com/circlesland/o-platform.git
-
-# Build
-cd o-platform
-./build.sh
-
 # Run
+npm i
 cd shell
 npm run dev
-
-#Build & Run with local self-signed Certificate:
-cd o-platfrom
-./buildlocal.shrink-0
-
-cd shell
-npm run devs
 
 ```
 
