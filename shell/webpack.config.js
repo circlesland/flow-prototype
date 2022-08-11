@@ -115,7 +115,7 @@ module.exports = {
     contentBase: [path.join(__dirname, "public")],
     port: 3333,
     host: "localhost",
-    open: true,
+    open: false,
     https: false,
   },
 };
