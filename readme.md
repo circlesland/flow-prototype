@@ -5,9 +5,8 @@
 ### 1. Run
 ```shell
 # Run
-nvm use 16.11
-npm i
 cd shell
+npm i
 npm run dev
 ```
 
